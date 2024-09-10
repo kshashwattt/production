@@ -1,0 +1,65 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.links a {
+  @apply text-white font-medium hover:text-primary-text hover:no-underline transition-colors duration-300;
+}
+
+.svg-background {
+  background-image: url("../src/assets/Stock Chart.svg");
+  width: 100%;
+
+  @media (max-width: 768px) {
+    background-image: url("../src/assets/Stock Chart Mobile.svg");
+  }
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+}
+
+.canvas {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 5;
+}
+
+.contact {
+  background-image: url("../src/assets/contactus.svg");
+}
+
+/* Custom Scrollbar Styles */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent; /* primary-gray */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #a4c639; /* primary-text */
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #8ba830; /* slightly darker shade of primary-text for hover effect */
+}
+
+/* For Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #a4c639 transparent; /* primary-text primary-gray */
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="70" height="75" preserveAspectRatio="none" viewBox="0 0 420 100">
+  <g mask="url(&quot;#SvgjsMask1018&quot;)" fill="none">
+    <path d="M0 28.47L10 27.03L20 36.46L30 44.07L40 56.47L50 47.93L60 57.88L70 65.61L80 68.57L90 77.49L100 84.87L110 88.46L120 86.5L130 93.71L140 90.23L150 82.73L160 75.35L170 68.41L180 61.58L190 71.37L200 83.33L210 94.94L220 95.51L230 89.73L240 77.64L250 70.31L260 74.51L270 65.98L280 53.81L290 62.42L300 61.33L310 49.08L320 43.09L330 37.32L340 26.94L350 35.1L360 42.08L370 44.7L380 47.71L390 43.76L400 37.04L410 29.75L420 23.35" stroke="rgba(164, 198, 57, 1)" stroke-width="1"></path>
+    <path d="M0 28.47L10 27.03L20 36.46L30 44.07L40 56.47L50 47.93L60 57.88L70 65.61L80 68.57L90 77.49L100 84.87L110 88.46L120 86.5L130 93.71L140 90.23L150 82.73L160 75.35L170 68.41L180 61.58L190 71.37L200 83.33L210 94.94L220 95.51L230 89.73L240 77.64L250 70.31L260 74.51L270 65.98L280 53.81L290 62.42L300 61.33L310 49.08L320 43.09L330 37.32L340 26.94L350 35.1L360 42.08L370 44.7L380 47.71L390 43.76L400 37.04L410 29.75L420 23.35L420 100L0 100z" fill="url(&quot;#SvgjsLinearGradient1019&quot;)"></path>
+  </g>
+  <defs>
+    <mask id="SvgjsMask1018">
+      <rect width="420" height="100" fill="#ffffff"></rect>
+    </mask>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="SvgjsLinearGradient1019">
+      <stop stop-opacity="0.65" stop-color="rgba(164, 198, 57, 1)" offset="0"></stop>
+      <stop stop-opacity="0" stop-color="#f4f8e7" offset="0.8"></stop>
+    </linearGradient>
+  </defs>
+</svg>
